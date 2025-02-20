@@ -173,3 +173,6 @@ abbr -a -- ls colorls
 abbr -a -- la 'colorls -a'
 abbr -a -- ll 'colorls -l'
 abbr -a -- lla 'colorls -la'
+
+abbr -a -- pman 'sudo pacman -Syu --needed --noconfirm'
+abbr -a -- sf 'source ~/.config/fish/config.fish'
