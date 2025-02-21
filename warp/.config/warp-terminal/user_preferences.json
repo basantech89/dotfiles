@@ -1,7 +1,7 @@
 {
   "prefs": {
     "AliasExpansionEnabled": "true",
-    "AIRequestLimitInfo": "{\"limit\":150,\"num_requests_used_since_refresh\":5,\"next_refresh_time\":\"2025-03-13T03:08:10.213468Z\",\"is_unlimited\":false,\"request_limit_refresh_duration\":\"Monthly\",\"accepted_autosuggestions_limit\":250,\"is_unlimited_autosuggestions\":false,\"accepted_autosuggestions_since_last_refresh\":76,\"is_unlimited_voice\":false,\"voice_request_limit\":10000,\"voice_token_limit\":30000,\"voice_requests_used_since_last_refresh\":0,\"voice_tokens_used_since_last_refresh\":0}",
+    "AIRequestLimitInfo": "{\"limit\":150,\"num_requests_used_since_refresh\":5,\"next_refresh_time\":\"2025-03-13T03:08:10.213468Z\",\"is_unlimited\":false,\"request_limit_refresh_duration\":\"Monthly\",\"accepted_autosuggestions_limit\":250,\"is_unlimited_autosuggestions\":false,\"accepted_autosuggestions_since_last_refresh\":81,\"is_unlimited_voice\":false,\"voice_request_limit\":10000,\"voice_token_limit\":30000,\"voice_requests_used_since_last_refresh\":0,\"voice_tokens_used_since_last_refresh\":0}",
     "FontSize": "20.0",
     "ShouldDimInactivePanes": "true",
     "TelemetryEnabled": "true",
