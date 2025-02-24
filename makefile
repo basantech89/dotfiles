@@ -1,7 +1,7 @@
 .PHONY: all fish neovim starship warp zsh delete delete_fish delete_neovim delete_starship delete_warp delete_zsh
 
 all:
-  stow --verbose --target=$$HOME --restow */
+	stow --verbose --target=$$HOME --restow */
 
 fish:
 	stow --verbose --target=$$HOME --restow fish
