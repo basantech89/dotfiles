@@ -38,3 +38,8 @@ if not string match -q -- $PNPM_HOME $PATH
     set -gx PATH "$PNPM_HOME" $PATH
 end
 # pnpm end
+#
+
+zoxide init fish | source
+
+direnv hook fish | source
