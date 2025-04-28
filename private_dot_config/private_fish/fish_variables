@@ -11,8 +11,8 @@ SETUVAR Z_CMD:z
 SETUVAR Z_DATA:/home/basant/\x2elocal/share/z/data
 SETUVAR Z_DATA_DIR:/home/basant/\x2elocal/share/z
 SETUVAR Z_EXCLUDE:\x5e/home/basant\x24
-SETUVAR --export __ABBR_TIPS_KEYS:cl\x1evim\x1ehcat\x1els\x1ela\x1ell\x1ella\x1epman\x1epu
-SETUVAR --export __ABBR_TIPS_VALUES:ls\x1envim\x1ehighlight\x20\x2dO\x20ansi\x1ecolorls\x1ecolorls\x1ecolorls\x20\x2dl\x1ecolorls\x20\x2dla\x1esudo\x20pacman\x20\x2dSyu\x20\x2d\x2dneeded\x20\x2d\x2dnoconfirm\x1eparu\x20\x2dSyu\x20\x2d\x2dremovemake\x20\x2d\x2dcleanafter\x20\x2d\x2dneeded\x20\x2d\x2dnoconfirm
+SETUVAR --export __ABBR_TIPS_KEYS:cl\x1evim\x1ehcat\x1els\x1ela\x1ell\x1ella\x1epman\x1epu\x1epm\x1epma
+SETUVAR --export __ABBR_TIPS_VALUES:ls\x1envim\x1ehighlight\x20\x2dO\x20ansi\x1ecolorls\x1ecolorls\x1ecolorls\x20\x2dl\x1ecolorls\x20\x2dla\x1esudo\x20pacman\x20\x2dSyu\x20\x2d\x2dneeded\x20\x2d\x2dnoconfirm\x1eparu\x20\x2dSyu\x20\x2d\x2dremovemake\x20\x2d\x2dcleanafter\x20\x2d\x2dneeded\x20\x2d\x2dnoconfirm\x1esudo\x20pacman\x2dmirrors\x20\x2d\x2dfasttrack\x2020\x20\x26\x26\x20sudo\x20pacman\x20\x2dSyyu\x1esudo\x20pacman\x2dmirrors\x20\x2d\x2dcountry\x20all\x20\x26\x26\x20sudo\x20pacman\x20\x2dSyuu
 SETUVAR __fish_initialized:3800
 SETUVAR _fisher_acomagu_2F_fish_2D_async_2D_prompt_files:\x7e/\x2econfig/fish/conf\x2ed/__async_prompt\x2efish
 SETUVAR _fisher_gazorby_2F_fish_2D_abbreviation_2D_tips_files:\x7e/\x2econfig/fish/functions/__abbr_tips_bind_newline\x2efish\x1e\x7e/\x2econfig/fish/functions/__abbr_tips_bind_space\x2efish\x1e\x7e/\x2econfig/fish/functions/__abbr_tips_clean\x2efish\x1e\x7e/\x2econfig/fish/functions/__abbr_tips_init\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/abbr_tips\x2efish
