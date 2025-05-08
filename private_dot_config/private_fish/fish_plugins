@@ -8,5 +8,4 @@ acomagu/fish-async-prompt
 gazorby/fish-abbreviation-tips
 jhillyerd/plugin-git
 patrickf1/fzf.fish
-jorgebucaran/nvm.fish
-berk-karaal/loadenv.fish
+reitzig/sdkman-for-fish@v2.1.0
