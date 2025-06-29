@@ -100,7 +100,7 @@ function __insulter_print_message
 end
 
 function fish_command_not_found
-    set -l toon (random choice {alpaca,bong,bud-forgs,bunny,cower,default,dragon,elephant,eyes,fox,hellokitty,koala,llama,meow,moofasa,moose,mutilated,sheep,skeleton,small,stegosaurus,supermilker,surgery,three-eyes,turtle,tux,udder,vader,www})
+    set -l toon (random choice {alpaca,bong,bud-frogs,bunny,cower,default,dragon,elephant,eyes,fox,hellokitty,koala,llama,meow,moofasa,moose,mutilated,sheep,skeleton,small,stegosaurus,supermilker,surgery,three-eyes,turtle,tux,udder,vader,www})
     __insulter_print_message | cowthink -f $toon | lolcat
     __fish_default_command_not_found_handler $argv
 end

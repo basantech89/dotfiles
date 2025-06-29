@@ -40,7 +40,7 @@ $time\
 palette = 'rox'
 
 [palettes.rox]
-color_os = '#9A348E'
+color_os = '#243642'
 color_dir = '#DA627D'
 color_git = '#FCA17D'
 color_time = '#33658A'
@@ -57,6 +57,8 @@ ap-south-1 = 'ap'
 us-east-1 = 'ue'
 [aws.profile_aliases]
 bp-dev = 'dev'
+bp-qa = 'qa'
+bp-prod = 'prod'
 
 # You can also replace your username with a neat symbol like   or disable this
 # and use the os module below
@@ -194,7 +196,8 @@ Illumos = "🐦 "
 Kali = "🐉 "
 Linux = "🐧 "
 Mabox = "📦 "
-Macos = "🍎 "
+# Macos = "🍎 "
+Macos = "💀 "
 # Manjaro = "🥭 "
 Manjaro = "🥸 "
 Mariner = "🌊 "
